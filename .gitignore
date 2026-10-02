@@ -1,0 +1,14 @@
+Python
+env/
+
+
+.env
+
+
+
+.vscode/
+.idea/
+
+
+
+.log
